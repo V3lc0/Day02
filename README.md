@@ -1,2 +1,2 @@
 # Day02
-This is my 2nd asignment
+This is my 2nd assignment
